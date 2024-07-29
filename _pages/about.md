@@ -19,3 +19,9 @@ I am an expert in the field of batteries, currently teaching at Huazhong Univers
 My research spans various aspects of structural battery technology, including porous electrode design, nanomaterial applications, and battery interface engineering, among others. I have authored over 50 academic papers published in top-tier international conferences and journals such as Nature, Science, and Joule, contributing significantly to the advancement and innovation of battery technology.
 
 Additionally, I serve as the Vice Chair of the Technical Committee for the IEEE BatteryTech International Conference and participate as a Program Committee member for international conferences in battery materials, energy storage, and related fields, including SC, ICDCS, and Cluster.
+
+Recent Highlights
+------
+*  **\[Nature' 24\]** My paper is accepted by Nature 2024.01, congratulations!
+*  **\[Science' 24\]** My paper is accepted by Science 2024.02, congratulations!
+*  **\[Joule' 23\]** My paper is accepted by Joule 2023.09, congratulations!
