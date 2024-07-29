@@ -21,7 +21,7 @@ repository               : "https://github.com/XiliangKe/index.html"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile1.png"
   name             : "Xiliang Ke"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D, Professor of Huazhong University of Science and Technology"
