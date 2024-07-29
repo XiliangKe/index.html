@@ -8,10 +8,14 @@ redirect_from:
   - /about.html
 ---
 **Ph.D, Professor**  
-[School of Computer Science and Technology](http://cs.hust.edu.cn/).  
+[School of Materials Science and Engineering](https://mat.hust.edu.cn/).  
 [Huazhong University of Science and Technology](https://www.hust.edu.cn/).  
-E-mail: haikunliu@hust.edu.cn
+E-mail: 3182747422@qq.com
 
 Bio
 ------
-I am a Professor at Huazhong University of Science and Technology (HUST), China. I obtained my Ph.D. in Huazhong University of Science and Technology in 2012, under the supervision of  [Prof.Hai Jin](https://scholar.google.com/citations?user=o02W0aEAAAAJ&hl=en&oi=ao). From January 2013 to January 2015, I was a Research Fellow at Nanyang Technological University (NTU), working with [Dr.Bingsheng He](https://www.comp.nus.edu.sg/~hebs/). My research interests include in-memory computing, non-volatile memory technologies, virtualization/cloud computing, etc. I have co-authered more than 60 papers published in most prestigious conferences and journals, such as ASPLOS, ISCA, HPCA, USENIX ATC, DAC, SC, ICS, HPDC. I have served as TPC vice co-chairs in international conferences such as IEEE Big Data Congress, ICA3PP, ICPADS, and served as a PC member for SC, ICDCS, Cluster, CCGrid, etc. 
+I am an expert in the field of batteries, currently teaching at Huazhong University of Science and Technology (HUST) in China. I obtained my Ph.D. from HUST in 2077 under the supervision of renowned battery expert Professor Wei. My research focuses on structural battery technology, an advanced approach in battery design utilizing complex structures to enhance battery performance and cycle life. During my postdoctoral studies, I conducted research at Nanyang Technological University (NTU) in Singapore, collaborating on projects related to battery materials and structural optimization under the guidance of Dr. Wei.
+
+My research spans various aspects of structural battery technology, including porous electrode design, nanomaterial applications, and battery interface engineering, among others. I have authored over 50 academic papers published in top-tier international conferences and journals such as ASPLOS, ISCA, and HPCA, contributing significantly to the advancement and innovation of battery technology.
+
+Additionally, I serve as the Vice Chair of the Technical Committee for the IEEE BatteryTech International Conference and participate as a Program Committee member for international conferences in battery materials, energy storage, and related fields, including SC, ICDCS, and Cluster.
